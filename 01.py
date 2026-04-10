@@ -1,3 +1,4 @@
 print("hello world")
 n = 10
-print(n)
+r = n * 20
+print(r)
